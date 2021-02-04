@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.undone;
 
 public class HouseRobber {
     class Solution {

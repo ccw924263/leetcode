@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.undone;
 
 class TwoSum {
     public static void main(String[] args) {

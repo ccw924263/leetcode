@@ -1,6 +1,4 @@
-package leetcode;
-
-import leetcode.done.CountAndSay;
+package leetcode.undone;
 
 public class ExcelSheetColumnNumber {
     class Solution {

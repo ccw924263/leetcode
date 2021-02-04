@@ -1,6 +1,4 @@
-package leetcode;
-
-import leetcode.done.LongestCommonPrefix1;
+package leetcode.undone;
 
 public class BaShuZiFanYiChengZiFuChuanLcof {
     class Solution {

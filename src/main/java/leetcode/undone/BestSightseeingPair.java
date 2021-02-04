@@ -1,8 +1,4 @@
-package leetcode;
-
-import leetcode.done.ReverseInteger;
-
-import java.util.Arrays;
+package leetcode.undone;
 
 public class BestSightseeingPair {
     class Solution {
